@@ -8,13 +8,13 @@ The best way to install this package is through your terminal via Composer.
 Add the following line to the `composer.json` file and fire `composer update`
 
 ```
-"furkankadioglu/laravelmodulemanagement": "dev-master"
+"d35k/laravelmodules": "dev-master"
 ```
 Once this operation is complete, simply add the service provider to your project's `config/app.php`
 
 #### Service Provider
 ```
-furkankadioglu\LaravelModuleManagement\ModuleServiceProvider::class,
+d35k\laravelmodules\ModuleServiceProvider::class,
 ```
 
 ## Getting started

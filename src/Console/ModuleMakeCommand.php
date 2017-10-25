@@ -1,10 +1,10 @@
-<?php namespace furkankadioglu\LaravelModuleManagement\Console;
+<?php namespace d35k\LaravelModules\Console;
 
 /************************
 *
-*	Rys - Furkan Kadıoğlu
-*	February - 2016	
-*	http://github.com/furkankadioglu
+*	Göktuğ Hatipoğlu
+*	2017
+*	http://github.com/d35k
 *
 *************************/
 

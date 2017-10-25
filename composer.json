@@ -1,14 +1,14 @@
 {
-    "name": "furkankadioglu/laravelmodulemanagement",
+    "name": "d35k/laravelmodules",
     "description": "Modular Pattern for Laravel 5",
-    "keywords": ["laravel", "pattern", "modular", "modules", "structure", "Furkan", "Kadıoğlu", "l5module", "artisan", "generator"],
-    "homepage": "https://github.com/furkankadioglu/LaravelModuleManagement",
+    "keywords": ["laravel", "pattern", "modular", "modules", "structure", "Göktuğ", "Hatipoğlu", "l5module", "artisan", "generator"],
+    "homepage": "https://github.com/d35k/laravelmodules",
     "license": "MIT",
     "version": "0.3.0.2",
     "authors": [
         {
-            "name": "Furkan Kadıoğlu",
-            "email": "furkan.kadioglu@gmail.com"
+            "name": "Göktuğ Hatipoğlu",
+            "email": "goktughatipoglu@yandex.com"
         }
     ],
   "require": {
@@ -17,7 +17,7 @@
   },
     "autoload": {
         "psr-4": {
-            "furkankadioglu\\LaravelModuleManagement\\": "src/"
+            "d35k\\LaravelModules\\": "src/"
         }
     },
      "minimum-stability": "stable"
